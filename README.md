@@ -382,6 +382,10 @@ In Multivariate analysis we check the relation of two independent features to ea
 * Use K-Means Clustering algorithm using elbow Method technique to determining the optimal number of clusters (k) in a K-means clustering algorithm. From the plot we are select 3 cluster because of odd no and more variance.
 U* sing K-Means Clustering to get a Silhouette Score is  0.62.
 
+### Cluster
+![image](https://github.com/KhairnarRutuja/FIFA-20/assets/135214279/c17f7631-d297-403c-a6a6-9ee872e4f8ff)
+
+
 ### Model Saving
 Save the model using pickle file.
 
