@@ -344,6 +344,25 @@ In Bivariate analysis we check the relation of independent features to each othe
 #### 3.	Multivariate Data Analysis¶
 In Multivariate analysis we check the relation of two independent features to each other.
 
+### Here Some Condition & Plotting
+#### 1.prepare a rank ordered list of top 10 countries with most players. Which countries are producing the most footballers that play at this level?
+![image](https://github.com/KhairnarRutuja/FIFA-20/assets/135214279/4c6f0aa2-66cb-4a16-8bcb-2b7509112184)
+
+**Observation/Insights**
+- Belgium country has the highest representation player among the top 10.
+
+#### 2.plot the distribution of overall rating vs. Age of players. Interpret what is the age after which a player stops improving?
+![image](https://github.com/KhairnarRutuja/FIFA-20/assets/135214279/36ea230b-026a-4216-88c2-c05fb04c0ee0)
+
+**Observation/Insights**
+- It can be estimated that a player typically stops improving after the age of 40.
+
+#### 3.which type of offensive player tends to get paid the most: the striker, the right winger, the left winger?
+![image](https://github.com/KhairnarRutuja/FIFA-20/assets/135214279/770e1186-868e-4a78-8c0e-b28bacfd19d3)
+
+**Observation/Insights**
+- The graph shows that left wingers have a higher salary, increasing 20,000, compared to both right wingers and strikers. Right wingers also tend to have relatively high salaries when compared to strikers.
+
 ### Data Preprocessing
 * First we check the missing values, and then check missing values in percentage, we seen that the above 50% to 90% missing value and some unique feature also contain missing value so we drop this feature.
 * Remaining feature missing value is less than 50% so we impute the missing value with median and mode.
